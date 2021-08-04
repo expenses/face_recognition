@@ -1,3 +1,5 @@
+# 💀 UNMAINTAINED 💀
+
 # Face Recognition
 
 Inspired by [a similar python library](https://github.com/ageitgey/face_recognition), face_recognition is a Rust library that binds to certain specific features of the [dlib C++ library](https://github.com/davisking/dlib).
